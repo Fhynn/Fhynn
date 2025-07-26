@@ -1,4 +1,4 @@
-# Hi there, I'm Paull 👋
+# Hi there, I'm Alfhin Hidayat 👋
 
 Welcome to my GitHub profile!  
 I'm a passionate developer who enjoys coding, exploring new technologies, and building cool projects. Here's a little more about me:
