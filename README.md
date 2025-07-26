@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dreamliner21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dreamliner21?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/dreamliner21?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Fhynn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Fhynn?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Fhynn?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
@@ -270,9 +270,9 @@ graph TD
 {
   "interests": [
     "🎮 Gaming (FPS, RPG, Strategy games)",
-    "🎵 Music (Hip-Hop/Rap - Lil Uzi Vert ("20 Min"), ScHoolboy Q, rap Thailand
-                Pop/R&B - Flo Rida ("Sugar"), Tinashe ("2 On")
-                Alternative Pop/Rock - Chase Atlantic"Swim", "Into It", "Consume)",
+    "🎵 Music (Hip-Hop/Rap - Lil Uzi Vert (20 Min)-ScHoolboy Q-rap Thailand
+                Pop/R&B - Flo Rida (Sugar)-Tinashe (2 On)
+                Alternative Pop/Rock - Chase Atlantic Swim-Into It Consume)",
     "🎭  Billie Elis& Idol Culture",
     "📱 Latest Technology Trends",
     "🏃‍♂️ Running & Fitness",
