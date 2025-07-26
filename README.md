@@ -1,14 +1,73 @@
 # 👋 Hi there, I'm Alfhin Hidayat!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+Enthusiast;Anime+Lover+%26+Otaku;Billie+Eilish+Fan+%F0%9F%8E%A4;Open+Source+Contributor;Always+Learning+New+Things!;Coding+while+vibing+to+music!;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200"/>
+</div>
+
+```
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠋⠉⠉⠉⠉⠙⠻⣦⡀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⢀⣾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⢸⡏⠀⠀⠀⢀⣀⣀⣀⣀⡀⠀⠀⠀⠀⢹⡇⠀⠀⠀
+    ⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⢸⣿⣿⣿⣿⡇⠀⠀⠀⠀⢸⡇⠀⠀⠀   "Coding is like anime - 
+    ⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠈⠛⠛⠛⠛⠁⠀⠀⠀⠀⢸⡇⠀⠀⠀    it gets better with time!"
+    ⠀⠀⠀⠀⠀⠘⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⠀⠀⠀         - Alfhin 2024
+    ⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠋⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⣦⣄⣀⣀⣀⣀⣠⣴⠟⠋⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Fhynn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Fhynn?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Fhynn?label=Stars&style=social" alt="GitHub Stars" />
 </div>
+
+### 🎮 Anime & Gaming Projects
+<div align="center">
+  <img src="https://img.shields.io/badge/Otaku-Level_100-ff69b4?style=for-the-badge&logo=anilist&logoColor=white" alt="Otaku Level"/>
+  <img src="https://img.shields.io/badge/Waifu-Protected-red?style=for-the-badge&logo=heart&logoColor=white" alt="Waifu Protected"/>
+  <img src="https://img.shields.io/badge/Anime_Watched-300+-blue?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime"/>
+  <img src="https://img.shields.io/badge/Gacha_Luck-SSR-gold?style=for-the-badge&logo=star&logoColor=white" alt="Gacha"/>
+</div>
+
+### 🌐 Anime Web Projects (Coming Soon)
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Planning-yellow?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Powered_By-Anime_Love-pink?style=for-the-badge&logo=heart" alt="Powered By"/>
+</div>
+
+> **MyAnimeList Clone** - Personal anime tracking system with recommendations
+
+**Planned Features:**
+- 📺 Anime database with ratings & reviews
+- 🎯 Personal watchlist & progress tracking
+- 🤖 AI-powered anime recommendations
+- 👥 Social features for otaku community
+- 📊 Advanced statistics & analytics
+- 🎮 Integration with gaming platforms
+
+---
+
+### 🎌 Waifu Randomizer API
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Tech-Node.js_API-green?style=for-the-badge&logo=node.js" alt="Tech"/>
+</div>
+
+> **REST API untuk random waifu images** with personality matching
+
+**Features:**
+- 🎲 Random waifu generator
+- 🔍 Search by anime series
+- ⭐ Rating & favorite system
+- 🎨 Character personality profiles
+- 📱 Mobile app integration ready
 
 ---
 
@@ -32,7 +91,7 @@ const alfhin = {
 - 🤝 Open to **collaboration** and **mentorship opportunities**
 - 🎯 Goal: Contributing to **open source** and building **impactful projects**
 - 📫 Reach me at **[230401150@student.umri.ac.id](mailto:230401150@student.umri.ac.id)**
-- ⚡ **Fun fact**: I love Billie elis and built a website to find your oshi! 🎭
+- ⚡ **Fun fact**: I love Billie Eilish and built a website to find your oshi! 🎭
 
 ---
 
@@ -99,16 +158,16 @@ const alfhin = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreamliner21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamliner21&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fhynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhynn&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamliner21&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fhynn&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dreamliner21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fhynn&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -123,7 +182,7 @@ const alfhin = {
 </div>
 
 > **Temukan siapa oshi JKT48-mu!** 🌟  
-> Game interaktif untuk mengetahui member JKT48 yang paling cocok dengan kepribadian kamu. Jawab beberapa pertanyaan sederhana dan lihat hasilnya yang mungkin mengejutkan!
+> Game interaktif untuk mengetahui member JKT48 yang paling cocok dengan kepribadian kamu. Jawab beberapa pertanyaan sederhana dan lihat hasilnya yang mungkin mengejutkan! *(Fun project for friends who are into idol culture)*
 
 **Features:**
 - 🎯 Interactive personality quiz
@@ -131,6 +190,25 @@ const alfhin = {
 - 📱 Mobile responsive
 - ⚡ Fast loading time
 - 🎭 Fun JKT48 member matching algorithm
+
+---
+
+### 🎵 Music Mood App
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Tech-React.js-61DAFB?style=for-the-badge&logo=react" alt="Tech"/>
+  <img src="https://img.shields.io/badge/API-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="API"/>
+</div>
+
+> **Music recommendation based on your mood and coding session** 🎧  
+> Curated playlists mixing Hip-Hop, Alternative Rock, and Pop for different coding moods.
+
+**Planned Features:**
+- 🎯 Mood-based music recommendations
+- 🎵 Integration with Spotify API
+- 🎤 Artist spotlight (Billie Eilish, Chase Atlantic, Lil Uzi)
+- ⚡ Real-time music sync with coding productivity
+- 📊 Music listening analytics
 
 ---
 
@@ -175,7 +253,7 @@ const alfhin = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamliner21&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fhynn&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -183,12 +261,12 @@ const alfhin = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamliner21&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fhynn&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamliner21&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamliner21&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fhynn&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fhynn&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 ---
@@ -263,27 +341,108 @@ graph TD
 ## 🌟 Fun Facts & Interests
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
 </div>
+
+### 🎌 Anime Waifu Collection
+<div align="center">
+  <img src="https://media.giphy.com/media/nR4L10XlJcSeQ/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/EP6b3noANHLaw/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/12jHPvCe8Nh87C/giphy.gif" width="150"/>
+</div>
+
+```javascript
+const otaku_life = {
+  current_status: "Watching anime while coding 🖥️✨",
+  power_level: "Over 9000! 💪",
+  favorite_genres: ["Shounen", "Romance", "Slice of Life", "Isekai"],
+  currently_watching: [
+    "Jujutsu Kaisen Season 2 🔥",
+    "Demon Slayer: Hashira Training Arc ⚔️",
+    "My Hero Academia Season 7 🦸‍♂️"
+  ],
+  all_time_favorites: [
+    "🗡️ Attack on Titan - Shinzou wo Sasageyo!",
+    "🔥 Demon Slayer - Breathing techniques in coding",
+    "💝 Your Name - Time manipulation debugging",
+    "⚡ One Piece - Never ending adventure like my code",
+    "🎯 Naruto - Believe it! (in clean code)",
+    "🏀 Kuroko no Basket - Teamwork makes the dream work"
+  ],
+  coding_soundtrack: [
+    "🎵 Hip-Hop/Rap (Lil Uzi Vert - 20 Min, ScHoolboy Q, Thai Rap)",
+    "🎶 Pop/R&B (Flo Rida - Sugar, Tinashe - 2 On)",
+    "🎸 Alternative Pop/Rock (Chase Atlantic - Swim, Into It, Consume)",
+    "🎹 Billie Eilish discography on repeat"
+  ],
+  waifu_tier_list: "Classified information 🤫",
+  husbando_picks: ["Levi Ackerman", "Tanjiro", "Gojo Satoru"],
+  anime_quote: "\"The only one who can beat me is me!\" - Aomine Daiki 🏀"
+};
+```
+
+### 🎮 Otaku Gaming Stats
+```
+┌─────────────────────────────────────────────┐
+│  🎯 Genshin Impact AR: 57 (Raiden Shogun main) │
+│  ⚔️ Honkai Impact: Captain Level 80+        │
+│  📱 Blue Archive: Sensei since Day 1        │
+│  🎴 Azur Lane: Admiral with 500+ ships      │
+│  🌟 Love Live: All Stars Master rank        │
+└─────────────────────────────────────────────┘
+```
+
+### 📺 Anime Watching Progress
+<div align="center">
+
+![Anime](https://img.shields.io/badge/Anime_Watched-300+-FF6B6B?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Manga](https://img.shields.io/badge/Manga_Read-150+-4ECDC4?style=for-the-badge&logo=manga&logoColor=white)
+![MAL](https://img.shields.io/badge/MyAnimeList-blue?style=for-the-badge&logo=myanimelist&logoColor=white)
+
+</div>
+
+### 🎌 Seasonal Anime Tracker
+```
+Spring 2024:
+████████████████████████ 100% - Demon Slayer
+██████████████████████▓▓ 90%  - My Hero Academia  
+████████████████▓▓▓▓▓▓▓▓ 70%  - Kaiju No. 8
+████████████▓▓▓▓▓▓▓▓▓▓▓▓ 50%  - Wind Breaker
+
+Currently Binge Watching:
+🔄 Re-watching Attack on Titan (for the 5th time)
+🆕 Chainsaw Man (preparing for Season 2)
+📚 Reading Jujutsu Kaisen manga ahead of anime
+```
+
+### 🏆 Otaku Achievements
+- 🎖️ **Anime Veteran**: Watched 300+ anime series
+- 🥇 **Manga Reader**: Read 150+ manga titles  
+- 🎯 **Gacha Master**: F2P but still gets SSR units
+- 🎵 **OST Collector**: 1000+ anime songs in playlist
+- 🎨 **Waifu Protector**: Desktop filled with anime wallpapers
+- 📱 **Mobile Otaku**: 10+ anime games installed
+- 🎪 **Convention Attendee**: Been to anime conventions
+- 💻 **Coding Weeb**: Uses anime variable names in code
 
 ```json
 {
   "interests": [
-    "🎮 Gaming (FPS, RPG, Strategy games)",
-    "🎵 Music (Hip-Hop/Rap - Lil Uzi Vert (20 Min)-ScHoolboy Q-rap Thailand
-                Pop/R&B - Flo Rida (Sugar)-Tinashe (2 On)
-                Alternative Pop/Rock - Chase Atlantic Swim-Into It Consume)",
-    "🎭  Billie Elis& Idol Culture",
-    "📱 Latest Technology Trends",
-    "🏃‍♂️ Running & Fitness",
-    "📸 Photography",
-    "🎬 Anime & Movies",
-    "☕ Coffee & Late-night coding"
+    "🎮 Gaming (Gacha games, FPS, RPG)",
+    "🎵 Music (Hip-Hop/Rap, Pop/R&B, Alternative Rock)",
+    "🎤 Billie Eilish & Modern Pop Culture",
+    "📱 Latest Technology & Music Apps",
+    "🏃‍♂️ Running while listening to Chase Atlantic",
+    "📸 Photography (especially concert & music vibes)",
+    "🎬 Anime, Manga & Music Videos",
+    "☕ Coffee & Late-night coding with Lil Uzi beats"
   ],
-  "favorite_games": ["Valorant", "League of Legends", "Genshin Impact"],
-  "favorite_anime": ["Attack on Titan", "Demon Slayer", "Your Name"],
-  "coding_music": ["Lo-fi Hip Hop", "Synthwave", "Classical"],
-  "coffee_preference": "Strong black coffee ☕"
+  "favorite_games": ["Genshin Impact", "Valorant", "Blue Archive", "Honkai Impact"],
+  "favorite_anime": ["Attack on Titan", "Demon Slayer", "Your Name", "JJK", "MHA"],
+  "coding_music": ["Hip-Hop/Rap", "Alternative Pop/Rock", "Billie Eilish", "Chase Atlantic"],
+  "coffee_preference": "Strong black coffee while vibing to music ☕🎵"
 }
 ```
 
@@ -317,7 +476,7 @@ graph TD
 - 🤖 **Technology Trends** - AI, Machine Learning, Web3
 - 🎯 **Career Advice** - Student life, learning paths
 - 🎮 **Gaming** - Latest games, esports
-- 🎭 **JKT48** - Idol culture, entertainment
+- 🎵 **Music** - Hip-Hop, Alternative Rock, Billie Eilish
 - ☕ **Anything over coffee!**
 
 ---
@@ -342,11 +501,29 @@ If you find my projects helpful or interesting, consider:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+something+amazing+together!;Always+open+to+new+opportunities+and+collaborations!;Happy+coding!+%F0%9F%9A%80" alt="Closing Message"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;%22The+only+one+who+can+beat+me+is+me!%22+-+Aomine;%22Hard+work+is+necessary,+but+talent+makes+it+easier%22;Let's+connect+and+build+something+amazing!;Anime+%2B+Coding+%3D+Perfect+Life!;%E2%9C%A8+Sasageyo!+Sasageyo!+%E2%9C%A8;Always+open+to+new+opportunities!;Happy+coding!+%F0%9F%9A%80%F0%9F%8E%8C" alt="Closing Message"/>
 </div>
 
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣿⣿⣿⣿⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   "Whether you win or lose, 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    you can always be better
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    tomorrow than you 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    were today!"
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     - Hinata Shoyo 🏐
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠿⠿⣿⣿⣿⣿⠿⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=さようなら！&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 ---
