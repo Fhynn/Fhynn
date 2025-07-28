@@ -174,22 +174,22 @@ const alfhin = {
 
 ## 🚀 Featured Projects
 
-### 🎭 [Cekoshi - JKT48 Oshi Finder](https://cekoshi.dreamliner21.xyz)
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Tech-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="Tech"/>
-  <img src="https://img.shields.io/badge/Type-Web_App-blue?style=for-the-badge" alt="Type"/>
-</div>
+# 🛍️ Fhinz Store
 
-> **Temukan siapa oshi JKT48-mu!** 🌟  
-> Game interaktif untuk mengetahui member JKT48 yang paling cocok dengan kepribadian kamu. Jawab beberapa pertanyaan sederhana dan lihat hasilnya yang mungkin mengejutkan! *(Fun project for friends who are into idol culture)*
+**Fhinz Store** adalah website toko online sederhana dengan tampilan modern dan responsif. Cocok digunakan sebagai template awal untuk proyek e-commerce skala kecil hingga menengah.
 
-**Features:**
-- 🎯 Interactive personality quiz
-- 🎨 Beautiful UI/UX design
-- 📱 Mobile responsive
-- ⚡ Fast loading time
-- 🎭 Fun JKT48 member matching algorithm
+## ✨ Fitur
+
+- 📱 Tampilan responsif (mobile-friendly)
+- 🎨 Desain antarmuka modern
+- 🛒 Halaman produk
+- 🔗 Navigasi sederhana
+
+## 🧰 Teknologi
+
+- ⚙️ HTML5  
+- 🎨 CSS3  
+- 💡 JavaScript
 
 ---
 
