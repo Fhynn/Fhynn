@@ -86,7 +86,15 @@ IoT experiments using ESP32 and sensor-based systems.
 
 <div align="center">
   <a href="https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1?si=abIgJE03ReSZvKhONkb_sA">
-    <img src="https://img.shields.io/badge/Favorite%20Song-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Favorite%20Song-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Favorite Song on Spotify" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1?si=abIgJE03ReSZvKhONkb_sA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=1DB954&center=true&vCenter=true&width=560&lines=Now+Playing+on+Spotify;Favorite+song+while+coding;Click+to+listen+%F0%9F%8E%A7" alt="Spotify Music Card" />
   </a>
 </div>
 
