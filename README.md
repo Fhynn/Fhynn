@@ -85,13 +85,18 @@ IoT experiments using ESP32 and sensor-based systems.
 ## Music & Anime Corner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="220" alt="Music vibe gif" />
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="220" alt="Science anime vibe gif" />
+  <a href="https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1?si=abIgJE03ReSZvKhONkb_sA">
+    <img src="https://img.shields.io/badge/Favorite%20Song-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
 </div>
 
-### Favorite Song
+<br />
 
-🎧 Current favorite track: [Listen on Spotify](https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1?si=abIgJE03ReSZvKhONkb_sA)
+<div align="center">
+  <a href="https://tenor.com/id/view/senku-ishigami-dr-stone-anime-gif-15800497">
+    <img src="https://media.tenor.com/images/c0ac6c9b9da6c9d7b4fb653712c2323f/tenor.gif" width="360" alt="Senku Ishigami GIF" />
+  </a>
+</div>
 
 ### Favorite Anime
 
