@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Flutter+%7C+Laravel+%7C+IoT;Computer+Science+Student+at+UMRI;Keep+Learning+%E2%9A%A1+Keep+Building" alt="Typing SVG" />
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Fhynn&label=Profile%20Views&color=00c2ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Fhynn?label=Followers&style=for-the-badge&color=1DB954" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Fhynn?label=Stars&style=for-the-badge&color=ffd700" alt="GitHub stars" />
+</p>
+
 </div>
 
 ## About Me
@@ -30,6 +36,19 @@ const alfhin = {
   mindset: "Keep learning, keep building, keep improving"
 };
 ```
+
+## Current Focus
+
+<div align="center">
+
+| Area | What I'm Building |
+|---|---|
+| Fullstack Web | Modern apps with React, Next.js, Node.js, and Laravel |
+| Mobile | Flutter apps with clean UI and practical flows |
+| IoT | ESP32 experiments and sensor-based systems |
+| Portfolio | Real projects that show product thinking and problem solving |
+
+</div>
 
 ## Tech Stack
 
@@ -140,6 +159,16 @@ Senku Ishigami inspires me with his curiosity, scientific mindset, and problem-s
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fhynn&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## Contact
