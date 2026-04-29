@@ -93,9 +93,7 @@ IoT experiments using ESP32 and sensor-based systems.
 <br />
 
 <div align="center">
-  <a href="https://tenor.com/id/view/senku-ishigami-dr-stone-anime-gif-15800497">
-    <img src="https://media.tenor.com/images/c0ac6c9b9da6c9d7b4fb653712c2323f/tenor.gif" width="360" alt="Senku Ishigami GIF" />
-  </a>
+  <img src="./assets/senku-ishigami-dr-stone.gif" width="420" alt="Senku Ishigami GIF" />
 </div>
 
 ### Favorite Anime
