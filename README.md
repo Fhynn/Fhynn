@@ -1,200 +1,48 @@
-<div align="center">
-
-# Hi, I'm Alfhin Hidayat 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c2ff&height=180&section=header&text=Alfhin%20Hidayat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Flutter%20%7C%20Laravel%20%7C%20IoT&descAlignY=55&descSize=16" alt="Header Banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Flutter+%7C+Laravel+%7C+IoT;Computer+Science+Student+at+UMRI;Keep+Learning+%E2%9A%A1+Keep+Building" alt="Typing SVG" />
-
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:12334A,100:117A91&height=200&section=header&text=Alfhin%20Hidayat&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20WEB%20%26%20MOBILE&descSize=16&descAlignY=59&animation=fadeIn" alt="Alfhin Hidayat - Full-Stack Developer" />Building thoughtful interfaces and reliable applications.
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Fhynn&label=Profile%20Views&color=00c2ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Fhynn?label=Followers&style=for-the-badge&color=1DB954" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Fhynn?label=Stars&style=for-the-badge&color=ffd700" alt="GitHub stars" />
-</p>
+  <a href="mailto:alfhinhidayat98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email Alfhin" /></a>
+  <a href="https://www.linkedin.com/in/alfhin-hidayat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Fhynn?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</p></div>About me
+I'm Alfhin Hidayat, a Computer Science student at Universitas Muhammadiyah Riau (UMRI), based in Pekanbaru, Indonesia.
 
-</div>
+I enjoy developing web applications end to end, from backend logic and data management to responsive, user-focused interfaces. Beyond the web, I build with Flutter, experiment with ESP32-based IoT systems, and explore practical applications of AI.
+- I work with: full-stack web development, mobile apps, and IoT prototypes.
+- I care about: clear user experiences, maintainable code, and meaningful functionality.
+- I'm open to: internships, freelance projects, remote opportunities, and collaborations.
+Tech stack
+<div align="center">Web development
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,php,laravel&theme=dark&perline=8" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, PHP, and Laravel" />
+Mobile, database and tools
+<img src="https://skillicons.dev/icons?i=flutter,dart,mysql,firebase,git,github,vscode&theme=dark&perline=7" alt="Flutter, Dart, MySQL, Firebase, Git, GitHub, and VS Code" />
+Also exploring: ESP32 / IoT, AI, UI/UX, and interactive web experiences.
+</div>Selected projects
+Project	Overview
+FHINZ Store	A PHP and MySQL online store with product listings, a shopping cart, checkout, account management, and order tracking.
+Web 3D	An interactive browser-based 3D project exploring immersive interfaces and creative frontend experiences.
+Supelesehat	A health-related web application project focused on structured navigation and practical user workflows.
+ESP32 / IoT Experiments	Hands-on prototypes exploring sensors, microcontroller logic, and hardware-software integration.
 
-## About Me
 
-I'm a Computer Science student at **Universitas Muhammadiyah Riau (UMRI)** and a Fullstack Developer focused on building modern, responsive, and useful digital products.
+More code and experiments are available in my GitHub repositories.
 
-- 📍 Pekanbaru, Riau, Indonesia
-- 🎓 Computer Science student at Universitas Muhammadiyah Riau
-- 💻 Interested in Fullstack Web Development, Mobile Development, AI, UI/UX, and IoT
-- 🚀 Tech focus: React, Next.js, Node.js, Flutter, PHP Laravel, TypeScript, and Tailwind CSS
-- 🔎 Open to remote opportunities, internships, freelance projects, and startup environments
-- 📫 Email: **alfhinhidayat98@gmail.com**
+What I'm exploring
+- Full-stack engineering: application architecture, APIs, authentication, and data modeling.
+- Interface design: responsive layouts, usability, and intuitive user flows.
+- Mobile and connected devices: Flutter experiences and ESP32-based prototypes.
+GitHub activity
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Fhynn&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Alfhin's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhynn&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Most used languages in public repositories" /></div>Beyond the code
+<details>
+  <summary>A little more about me</summary>  I enjoy learning how things work, exploring new technologies, and listening to music while coding. My favorite anime is Dr. Stone; I admire Senku Ishigami's curiosity and problem-solving mindset.
 
-```ts
-const alfhin = {
-  role: "Fullstack Developer",
-  education: "Computer Science Student at UMRI",
-  location: "Pekanbaru, Riau, Indonesia",
-  focus: ["Web Development", "Mobile Development", "AI", "IoT", "UI/UX"],
-  favoriteAnime: "Dr. Stone",
-  inspiration: "Senku Ishigami - science, curiosity, and problem solving",
-  mindset: "Keep learning, keep building, keep improving"
-};
-```
+  My coding soundtrack on Spotify
+</details>Let's connect
+I'm always interested in exchanging ideas, collaborating on useful products, or learning from other developers.
 
-## Current Focus
-
+Email: alfhinhidayat98@gmail.com
+GitHub: @Fhynn
+LinkedIn: Alfhin Hidayat
 <div align="center">
-
-| Area | What I'm Building |
-|---|---|
-| Fullstack Web | Modern apps with React, Next.js, Node.js, and Laravel |
-| Mobile | Flutter apps with clean UI and practical flows |
-| IoT | ESP32 experiments and sensor-based systems |
-| Portfolio | Real projects that show product thinking and problem solving |
-
-</div>
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Mobile, Tools & Other
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-blue?style=for-the-badge)
-
-</div>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛍️ FHINZ Store
-Digital subscription store web application built to support online product/service selling.
-
-- Responsive UI for desktop and mobile
-- Clean product/service presentation flow
-- Practical business use case and user experience
-
-</td>
-<td width="50%">
-
-### 🌐 Web 3D
-Interactive 3D web project focused on modern visual experience.
-
-- Web-based 3D approach
-- Interactive UI and creative frontend development
-- Portfolio piece for visual web experiences
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🩺 Supelesehat
-Health-related web application project.
-
-- Modern frontend technologies
-- Clean interface and structured user flow
-- Real-world product development practice
-
-</td>
-<td width="50%">
-
-### ⚙️ ESP32 / IoT Projects
-IoT experiments using ESP32 and sensor-based systems.
-
-- Microcontroller-based logic
-- Hardware and software integration
-- Automation and monitoring concepts
-
-</td>
-</tr>
-</table>
-
-## Music & Anime Corner
-
-<div align="center">
-
-<a href="https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1?si=abIgJE03ReSZvKhONkb_sA">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:191414,100:1DB954&height=100&section=header&text=Favorite%20Song%20on%20Spotify&fontSize=26&fontColor=ffffff&animation=fadeIn&desc=Click%20to%20listen%20while%20coding%20%F0%9F%8E%A7&descSize=14&descAlignY=72" alt="Spotify Card" />
-</a>
-
-<br />
-<br />
-
-<img src="./assets/senku-ishigami-dr-stone.gif" width="520" alt="Senku Ishigami GIF" />
-
-</div>
-
-### Favorite Anime
-
-🧪 **Dr. Stone** is my favorite anime.  
-Senku Ishigami inspires me with his curiosity, scientific mindset, and problem-solving spirit.
-
-> "This is exhilarating." — Senku Ishigami
-
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fhynn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhynn&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fhynn&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fhynn/Fhynn/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:alfhinhidayat98@gmail.com">
-  <img src="https://img.shields.io/badge/Email-alfhinhidayat98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Fhynn">
-  <img src="https://img.shields.io/badge/GitHub-Fhynn-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/alfhin-hidayat">
-  <img src="https://img.shields.io/badge/LinkedIn-Alfhin%20Hidayat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <b>Thanks for visiting my profile.</b><br />
-  I'm always learning, building, and open to new opportunities.
-
-  <br />
-  <br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:2c5364&height=100&section=footer" />
-</div>
+<sub>Keep learning. Build with purpose.</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:117A91,100:0B1220&height=90&section=footer" alt="Footer wave" /></div>
